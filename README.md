@@ -1,10 +1,9 @@
 # Barotrauma - Jovian Bananas
-This is a simple xml-only modification for the game [Barotrauma](https://store.steampowered.com/app/602960/Barotrauma/).<br>
-It extends an already existing in-game item, adding special effects.
-
+This is a simple xml-only modification for the game [Barotrauma](https://store.steampowered.com/app/602960/Barotrauma/)<br>
+It extends an already existing in-game item, adding special effects
 
 ### Overview
-Now consuming a [banana](https://barotraumagame.com/wiki/Banana) will apply [Radiation Sickness](https://barotraumagame.com/wiki/Radiation_Sickness) affliction of strength 10.
+Now consuming a [banana](https://barotraumagame.com/wiki/Banana) will apply [Radiation Sickness](https://barotraumagame.com/wiki/Radiation_Sickness) affliction of strength 10
 
 ### Installation
 > [!IMPORTANT]
